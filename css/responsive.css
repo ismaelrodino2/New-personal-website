@@ -1,0 +1,25 @@
+@media (max-width: 768px) {
+    .background .background__content{
+        text-align: center;             
+    } 
+    .background .background__content. .background__content__type span h1{
+        text-align: center;             
+    }
+    .background .background__content .background__content__type{
+        justify-content: center;
+    }
+    .profile-pic{
+        display:none;
+    }
+    .hero .hero__content__anchor {
+        display: block;
+    }
+    
+    .about__content__text__contact {
+        display: block;
+    }
+
+
+}
+
+
