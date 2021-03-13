@@ -12,13 +12,25 @@
 .navbar-collapse > div {
   justify-content: center !important;
 }
-
-.navbar {
-  background-color: transparent;
+.fa-bars{
+  font-size:30px !important;
 }
 
 .nav-link {
   color: #ffffff !important;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13.4px;
+  letter-spacing: 1px;
+  margin: 0 7px;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none !important;
+    box-shadow: none !important;
 }
 
 /*hero*/
