@@ -299,7 +299,6 @@ section {
 }
 .bars h5 {
   padding-bottom: 9px;
-  width: 70px;
   font-family: 'Open Sans', sans-serif;
   color: #313131;
   font-size: 16px;
@@ -465,12 +464,11 @@ textarea {
   justify-content: center;
   color: #525252;
   padding-top: 30px;
-}
-.fast_contact2 a {
   margin-left: 3%;
   margin-right: 3%;
   fill: #525252;
 }
+
 .fast_contact2 a svg:hover {
   cursor: pointer;
   fill: white;

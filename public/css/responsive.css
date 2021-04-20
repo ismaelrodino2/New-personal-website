@@ -22,4 +22,7 @@
   .navbar-collapse > div {
     justify-content: flex-end !important;
   }
+  .fixed-top{
+    left: auto !important;
+  }
 }
