@@ -7,7 +7,7 @@ const sendMail = require('./mail');
 const { log } = console;
 const app = express();
 
-const PORT = 8080;
+const PORT = 3000;
 
 
 // Data parsing
