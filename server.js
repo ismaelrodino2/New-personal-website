@@ -53,4 +53,4 @@ app.get('/email/sent', (req, res) => {
 app.use(express.static(__dirname + '/public'));
 
 // Start server
-app.listen(PORT, () => log('Server is starting on PORT, ', 3000));
+app.listen(PORT, () => log('Server is starting on PORT, ', PORT));
